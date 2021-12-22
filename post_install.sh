@@ -1,8 +1,8 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="https://d96i82q710b04.cloudfront.net/res/product/NAKIVO_Transporter_Installer-10.5.0.sh"
-SHA256="057b7640e6048f8755a30638a6c87455d6b87964e356d6cf3d27472bbd3ecceb"
+URL="https://d96i82q710b04.cloudfront.net/res/product/NAKIVO_Transporter_Installer-10.5.1.sh"
+SHA256="b606aab99bf5da47292e2e0381bf9788462ff54015981af0b4e32263f7b76754"
 
 PRODUCT_ROOT="/usr/local/nakivo"
 INSTALL="inst.sh"
