@@ -6,9 +6,7 @@
         "allow_raw_sockets": "1",
         "boot": "on"
     },
-    "pkgs": [
-        "ftp/curl"
-    ],
+    "pkgs": [],
     "packagesite": "http://pkg.freebsd.org/${ABI}/quarterly",
     "fingerprints": {
         "plugin-default": [
