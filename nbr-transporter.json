@@ -7,7 +7,7 @@
         "boot": "on"
     },
     "pkgs": [],
-    "packagesite": "http://pkg.freebsd.org/${ABI}/quarterly",
+    "packagesite": "http://mirrors.aliyun.com/freebsd-pkg/${ABI}/quarterly",
     "fingerprints": {
         "plugin-default": [
             {
